@@ -26,6 +26,7 @@ Create a virtual environment, activate and install dependencies with:
   pip install -r requirements.txt
 
 ```
+Create a `.env` file in the root folder with the same variables as the `.env.example` file.
 
 Execute the code
 
